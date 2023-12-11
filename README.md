@@ -48,8 +48,6 @@ Example:
 
 > [!TIP]
 > You can run the Website Checker script with `sudo` if it requires access to restricted files or elevated privileges. Just prepend `sudo` to the command like this:
-
- Example:
  ```bash
 sudo ./website_checker.sh [OPTIONS] [URL]
 ```
