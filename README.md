@@ -39,7 +39,7 @@ cd WebsiteChecker
 - ``-c`` : Check the SSL certificate only
 - ``-h`` : Check the HTTP headers only
 - ``-p`` : Perform a ping test only
-- ``-help`` : Display help and exi
+- ``-help`` : Display help and exit
 
 Example:
 ```bash
