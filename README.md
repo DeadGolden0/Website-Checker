@@ -46,6 +46,7 @@ Example:
 ./WebsiteChecker.sh -A https://www.example.com
 ```
 <br>
+
 > [!TIP]
 > You can run the Website Checker script with `sudo` if it requires access to restricted files or elevated privileges. Just prepend `sudo` to the command like this:
  ```bash
