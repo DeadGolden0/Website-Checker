@@ -35,12 +35,11 @@ cd WebsiteChecker
 ./website_checker.sh [OPTIONS] [URL]
 ```
 
-> [!IMPORTANT]
-> -A : Perform all checks (SSL, HTTP headers, ping)
-> -c : Check the SSL certificate only
-> -h : Check the HTTP headers only
-> -p : Perform a ping test only
-> -help : Display help and exit
+- -A : Perform all checks (SSL, HTTP headers, ping)
+- -c : Check the SSL certificate only
+- -h : Check the HTTP headers only
+- -p : Perform a ping test only
+- -help : Display help and exit
 
 Example:
 ```bash
