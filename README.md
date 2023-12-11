@@ -32,7 +32,7 @@ cd WebsiteChecker
 > To run this script, navigate to the repository directory and execute:
 
 ```bash
-./website_checker.sh [OPTIONS] [URL]
+./WebsiteChecker.sh [OPTIONS] [URL]
 ```
 
 - ``-A`` : Perform all checks (SSL, HTTP headers, ping)
@@ -43,7 +43,7 @@ cd WebsiteChecker
 
 Example:
 ```bash
-./website_checker.sh -A https://www.example.com
+./WebsiteChecker.sh -A https://www.example.com
 ```
 
 ## 🤝 Contributing
